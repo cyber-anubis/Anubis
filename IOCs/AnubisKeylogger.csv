@@ -1,0 +1,7 @@
+type,data
+hash,DBD9B15D48B43018F8EA123EA6B942680BD682E12608876CBAE88D22CD091EA8
+file,%TEMP%\JNativeHook_4656735465228613791.dll
+file,%TEMP%\File7284155642637045387.jar
+file,%TEMP%\bridj.dll
+registry,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\File
+domain,52.14.36.99
