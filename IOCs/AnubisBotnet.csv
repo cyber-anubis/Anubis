@@ -1,6 +1,5 @@
 type,data
 hash,0BA321E8ECE4E89DB8BACCE007CA86E06BBAB0EBD01C8D6B1D18C7AA9BB07A3B
-hash,E3F1FE9AAA6A205ABB44BD823516136DB0510485FF5B6365264CBFD2E7A48354
 file,%TEMP%\ms<random string>.<extension>
 registry,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\File
 domain,filer.comeze.com
